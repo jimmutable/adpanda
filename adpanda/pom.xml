@@ -21,5 +21,15 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+    	<groupId>com.google.api-ads</groupId>
+    	<artifactId>ads-lib</artifactId>
+    	<version>RELEASE</version>
+    </dependency>
+    <dependency>
+    	<groupId>com.google.api-ads</groupId>
+    	<artifactId>adwords-axis</artifactId>
+    	<version>RELEASE</version>
+    </dependency>
   </dependencies>
 </project>
