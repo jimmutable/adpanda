@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.Properties;
 
-// Examples can be found in the GIT hub repository: https://github.com/facebook/facebook-java-ads-sdk
+
 
 public class APISecrets 
 {
