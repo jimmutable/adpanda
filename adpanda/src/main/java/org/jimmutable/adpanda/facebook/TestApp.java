@@ -152,6 +152,7 @@ public class TestApp
 		}*/
 		
 		// Carousel Ad
+		/*
 		{
 		
 			JsonArray childAttachments = new JsonArray();
@@ -197,6 +198,6 @@ public class TestApp
 			          .setBidAmount(100L)
 			          .setRedownload(true)
 			          .execute();
-		}
+		}*/
 	}
 }
